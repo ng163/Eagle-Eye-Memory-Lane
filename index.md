@@ -4,8 +4,6 @@ Privacy Policy & Support
 
 *Last updated: June 24, 2026*
 
-> **Note for the developer:** update the date above whenever you change this page.
-
 ---
 
 ## Privacy Policy
